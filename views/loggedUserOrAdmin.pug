@@ -1,0 +1,47 @@
+extends base  
+block content
+ main.main
+  .user-site
+    nav.user-site__menu
+      ul.pagePanel-nav Zobaczyłeś jakiś remont którego nie uwzględniłem na mapie? <br>Poinformuj mnie o tym :)<br><br>
+        li.pagePanel-nav--active 
+          a(href='/contact')
+            | Napisz do mnie
+        li
+          a(href='#')
+            | ??
+            .user-site__content      
+      - if (user.role === 'admin')
+        .admin-nav
+          h5.admin-nav__heading Admin
+          ul.pagePanel-nav
+            li
+              a(href='/NowyRemont')
+                | Dodaj Nowy remont
+            li
+              a(href='/UsunModel')
+                | Usuń Model przed uzyciem scrapera
+            li
+              a(href='/scrapowanie')
+                | Pobieranie danych
+            li
+              a(href='/listaUzytkownikow')
+                | Lista Uzytkownikow
+              
+      .user-site__form-container  Chcesz zmienić swoje hasło? Mozesz zrobić to ponizej<br><br>
+        h2.heading-secondary.ma-bt-md Zmiana Hasła
+        form.form.form-change-password
+          .form__group
+            label.form__label(for='current') Twoje Hasło
+            input#current.form__input(type='password', placeholder='••••••••', required, minlength='8')
+          .form__group
+            label.form__label(for='password') Nowe Hasło
+            input#password.form__input(type='password', placeholder='••••••••', required, minlength='8')
+          .form__group.ma-bt-lg
+            label.form__label(for='confirmPassword') Potwierdz Hasło
+            input#confirmPassword.form__input(type='password', placeholder='••••••••', required, minlength='8')
+          .form__group.right
+            button.btn.btn--small.btn--green.btn--save-password Zapisz Hasło
+
+      
+    

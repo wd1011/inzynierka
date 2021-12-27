@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wyszukiwarka</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/style.css" />
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="/js/script.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <nav class="nav nav--roads">
+            <a class="nav__el" href="/">Strona główna</a>
+        </nav>
+    </header>
+    <div class="finding">
+        <div class="row">
+            <input type="text" onkeyup="filterTableByName()" id="odcinek" name="odcinek" placeholder="podaj nazwe odcinka">
+            <select class="form-select" id="floatingSelect" onchange="filterByVoideship()" aria-label="Wybierz wojewodztwo">
+                  <option selected>Wybierz województwo</option>
+                  <option>dolnośląskie</option>
+                  <option>kujawsko-pomorskie</option>
+                  <option>lubelskie</option>
+                  <option>lubuskie</option>
+                  <option>Łódzkie</option>
+                  <option>małopolskie</option>
+                  <option>mazowieckie</option>
+                  <option>opolskie</option>
+                  <option>podkarpackie</option>
+                  <option>podlaskie</option>
+                  <option>pomorskie</option>
+                  <option>śląskie</option>
+                  <option>świętokrzyskie</option>
+                  <option>warmińsko-mazurskie</option>
+                  <option>wielkopolskie</option>
+                  <option>zachodniopomorskie</option>
+                </select>
+
+        </div>
+    </div>
+    <div class="finding">
+        <div class="row">
+            <input type="text" onkeyup="filterTableByNoumberOfRoad()" id="numberOfRoad" name="numberOfRoad" placeholder="podaj numer drogi">
+            <select class="form-select" id="floatingSelect2" onchange="filterByType()" aria-label="Wybierz wojewodztwo">
+                <option selected>Wybierz rodzaj utrudnień</option>
+                <option>Roboty drogowe</option>
+                <option>Inne</option>
+                <option>Zwiększone natężenie ruchu</option>
+                <option>Zderzenie się pojazdów w ruchu</option>
+                <option>Blokada drogi</option>
+          </select>
+        </div>
+    </div>
+
+    <table class="table" id="table">
+        <thead>
+            <tr>
+                <th scope="col">odcinek</th>
+                <th scope="col">droga</th>
+                <th scope="col">wojewodztwo</th>
+                <th scope="col">rodzaj</th>
+                <th scope="col">rozpoczecie</th>
+                <th scope="col">zakonczenie</th>
+            </tr>
+        </thead>
+        <tbody>
+            <%roadList.forEach(roads=> {%>
+                <tr>
+                    <td>
+                        <%=roads.odcinek%>
+                    </td>
+                    <td>
+                        <%=roads.droga%>
+                    </td>
+                    <td>
+                        <%=roads.wojewodztwo%>
+                    </td>
+                    <td>
+                        <%=roads.rodzaj%>
+                    </td>
+                    <td>
+                        <%=roads.rozpoczecie%>
+                    </td>
+                    <td>
+                        <%=roads.zakonczenie%>
+                    </td>
+                </tr>
+                <%})%>
+
+        </tbody>
+    </table>
+    </section>
+    <footer class="footer">
+        <ul class="footer__nav">
+            <li><a href="#">About me</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+        <p class="footer__copyright">
+            &copy; Wykonał Wojciech Dąbrowski
+        </p>
+    </footer>
+</body>
+
+</html>

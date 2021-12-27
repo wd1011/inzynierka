@@ -1,0 +1,15 @@
+extends base
+
+block content
+  main.main
+    .login-form
+      h1.heading-secondary.ma-bt-lg Zaloguj sie 
+      form.form.form--login
+        .form__group
+          label.form__label(for='email') Adres email
+          input#email.form__input(type='email', placeholder='xyz@gmail.com', required)
+        .form__group.ma-bt-md
+          label.form__label(for='password') Haslo
+          input#password.form__input(type='password', placeholder='••••••••', required, minlength='8')
+        .form__group
+          button.btn.btn--green Zaloguj sie 

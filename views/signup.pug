@@ -1,0 +1,19 @@
+extends base
+
+block content
+  main.main
+    .signup-form
+      h1.heading-secondary.ma-bt-lg Zarejestruj Się
+      form.form.form--singup
+        .form__group
+          label.form__label(for='name') podaj swoje imię
+          input#name.form__input(type='text', placeholder='imie', required)
+          label.form__label(for='email') Adres email
+          input#email.form__input(type='email', placeholder='Adres email', required)
+        .form__group.ma-bt-md
+          label.form__label(for='password') Haslo
+          input#password.form__input(type='password', placeholder='••••••••', required, minlength='8')
+          label.form__label(for='confirmPassword') Potwierdź Hasło
+          input#confirmPassword.form__input(type='password', placeholder='••••••••', required, minlength='8')
+        .form__group
+          button.btn.btn--green Zarejestruj sie 

@@ -1,0 +1,21 @@
+extends base
+
+block content
+  main.main
+     .contact-form 
+      h2.heading-secondary.ma-bt-lg Formularz Kontaktowy
+      form.form.form-contact(action='/send' method='POST' enctype='multipart/form-data')
+        .form__group
+          label.form__label(for='name') podaj swoje imię
+          input#name.form__input(type='text', placeholder='imie', name='name',required)
+          label.form__label(for='email') Adres email
+          input#email.form__input(type='email', placeholder='Adres email',name='email', required)
+        .form__group.ma-bt-md
+          label.form__label(for='rodzaj') Rodzaj prac drogowych 
+          input#rodzaj.form__input(type='textarea', placeholder='Rodzaj prac drogowych ',name='rodzaj' required)
+          label.form__label(for='Opis') Opis problemu
+          textarea#opis.form__input(type='textarea', placeholder='Opis',name='opis' required)
+          label.form__label(for='adres') Adres problemu
+          textarea#adres.form__input(type='textarea', placeholder='Adres',name='adres' required)
+        .form__group
+           button.btn.btn--green--send Wyslij

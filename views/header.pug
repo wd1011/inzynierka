@@ -1,0 +1,14 @@
+header.header
+  nav.nav.nav--roads   
+    a.nav__el(href='/mapaPolski') Mapa Polski
+     nav.nav.nav.nay--roads
+      a.nav__el(href='/remonty/wyszukiwarka') Wyszukaj Remont
+     
+
+  nav.nav.nav--user
+    if user
+      a.nav__el.nav__el--logout Wyloguj
+      a.nav__el(href='/mojeKonto') Moje Konto
+    else
+      a.nav__el(href='/signin') Zaloguj sie    
+      a.nav__el.nav__el--singup(href='/rejestracja') Zarejestruj sie    

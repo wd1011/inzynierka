@@ -1,0 +1,3032 @@
+[
+  {
+    "_id": {
+      "$oid": "61b65b31e2eb6a58b7b2d2ce"
+    },
+    "droga": "A1",
+    "odcinek": "pas właczenia z Węzła Jasna Góra na A!",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.12.2021 godz. 07:00",
+    "zakonczenie": "15.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b31e2eb6a58b7b2d2cd"
+    },
+    "droga": "",
+    "odcinek": "",
+    "wojewodztwo": "",
+    "rodzaj": "",
+    "rozpoczecie": "",
+    "zakonczenie": "",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d0"
+    },
+    "droga": "32",
+    "odcinek": "m. Kargowa",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "13.12.2021 godz. 07:00",
+    "zakonczenie": "20.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d1"
+    },
+    "droga": "1",
+    "odcinek": "Piasek",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "12.12.2021 godz. 23:59",
+    "zakonczenie": "15.12.2021 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2cf"
+    },
+    "droga": "A4",
+    "odcinek": "węzeł Tarnów Mościce - węzeł Brzesko",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "14.12.2021 godz. 10:00",
+    "zakonczenie": "14.12.2021 godz. 13:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d3"
+    },
+    "droga": "A4",
+    "odcinek": "w. Gliwice Ostropa - w. Gliwice Bojków",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Zderzenie się pojazdów w ruchu",
+    "rozpoczecie": "12.12.2021 godz. 19:13",
+    "zakonczenie": "12.12.2021 godz. 21:20",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d5"
+    },
+    "droga": "74",
+    "odcinek": "Kraśnik - Annopol",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "11.12.2021 godz. 07:00",
+    "zakonczenie": "18.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d4"
+    },
+    "droga": "S3a",
+    "odcinek": "w. Międzyrzecz Południe - w. Jordanowo",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "11.12.2021 godz. 08:00",
+    "zakonczenie": "14.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d2"
+    },
+    "droga": "A1",
+    "odcinek": "w. Woźniki - w. Pyrzowice",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "12.12.2021 godz. 20:06",
+    "zakonczenie": "12.12.2021 godz. 21:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d7"
+    },
+    "droga": "A4",
+    "odcinek": "Ruda Śląska",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 18:00",
+    "zakonczenie": "14.12.2021 godz. 07:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2da"
+    },
+    "droga": "A4",
+    "odcinek": "Węzeł Gliwice Bojków - Węzeł Gliwice Sośnica",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 08:00",
+    "zakonczenie": "10.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d9"
+    },
+    "droga": "73",
+    "odcinek": "Breń - Żelazówka",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 10:00",
+    "zakonczenie": "17.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d8"
+    },
+    "droga": "16",
+    "odcinek": "m. Mrągowo",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 10:00",
+    "zakonczenie": "13.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2d6"
+    },
+    "droga": "A4",
+    "odcinek": "Ruda Śląska",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 18:00",
+    "zakonczenie": "14.12.2021 godz. 07:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2df"
+    },
+    "droga": "44",
+    "odcinek": "Borek Szlachecki",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 07:00",
+    "zakonczenie": "17.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2dd"
+    },
+    "droga": "50",
+    "odcinek": "Kąty Czernińskie - Kąty Wielgie",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 08:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2dc"
+    },
+    "droga": "44",
+    "odcinek": "Paniówki",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "10.12.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 19:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e0"
+    },
+    "droga": "86",
+    "odcinek": "DK 86 w km 14+250 - 15+250",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 07:00",
+    "zakonczenie": "15.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2de"
+    },
+    "droga": "A1",
+    "odcinek": "A1",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 07:00",
+    "zakonczenie": "13.12.2021 godz. 08:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2db"
+    },
+    "droga": "44",
+    "odcinek": "Przyszowice",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "10.12.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 19:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e2"
+    },
+    "droga": "44",
+    "odcinek": "Mikołów",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "09.12.2021 godz. 19:30",
+    "zakonczenie": "13.12.2021 godz. 19:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e5"
+    },
+    "droga": "80",
+    "odcinek": "Strzyżawa - Przysiek",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.12.2021 godz. 11:00",
+    "zakonczenie": "13.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e3"
+    },
+    "droga": "32",
+    "odcinek": "m. Wielka Wieś",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "09.12.2021 godz. 08:00",
+    "zakonczenie": "22.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e4"
+    },
+    "droga": "32",
+    "odcinek": "m. Grodzisk Wlkp.",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "09.12.2021 godz. 08:00",
+    "zakonczenie": "22.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e1"
+    },
+    "droga": "A4",
+    "odcinek": "Węzeł Gliwice Bojków - Węzeł Gliwice Sośnica",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "10.12.2021 godz. 06:00",
+    "zakonczenie": "13.12.2021 godz. 07:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e7"
+    },
+    "droga": "S10a",
+    "odcinek": "Węzeł Toruń Zachód - Węzeł Toruń Południe.",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.12.2021 godz. 08:00",
+    "zakonczenie": "18.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2eb"
+    },
+    "droga": "S8d",
+    "odcinek": "Obwodnica Wyszkowa",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "07.12.2021 godz. 08:00",
+    "zakonczenie": "31.01.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2ea"
+    },
+    "droga": "5",
+    "odcinek": "Wierzchosławice-Dębrznik",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "07.12.2021 godz. 09:00",
+    "zakonczenie": "22.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2ec"
+    },
+    "droga": "11",
+    "odcinek": "Okonek-Ptusza",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "07.12.2021 godz. 08:00",
+    "zakonczenie": "14.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e9"
+    },
+    "droga": "45",
+    "odcinek": "odc. Sołtysy - Wierzbie na trasie Praszka kier. Wieluń",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.12.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e8"
+    },
+    "droga": "2",
+    "odcinek": "Siedlce - Międzyrzec Podlaski",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.12.2021 godz. 08:00",
+    "zakonczenie": "14.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2ed"
+    },
+    "droga": "24",
+    "odcinek": "odc. Prusim - Kwilcz",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "07.12.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 10:10",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2e6"
+    },
+    "droga": "S5l",
+    "odcinek": "Węzeł Bydgoszcz Opławiec - Węzeł Bydgoszcz Błonie.",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.12.2021 godz. 08:00",
+    "zakonczenie": "18.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f1"
+    },
+    "droga": "25",
+    "odcinek": "Nowy Dwór",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.12.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f4"
+    },
+    "droga": "79",
+    "odcinek": "Chrzanów",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "03.12.2021 godz. 10:00",
+    "zakonczenie": "01.04.2022 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f2"
+    },
+    "droga": "78",
+    "odcinek": "Zawiercie - Kromołów",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "04.12.2021 godz. 08:00",
+    "zakonczenie": "15.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f5"
+    },
+    "droga": "57",
+    "odcinek": "Dźwierzuty",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "03.12.2021 godz. 09:30",
+    "zakonczenie": "15.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f3"
+    },
+    "droga": "25",
+    "odcinek": "Rychwal -Siąszyce",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "04.12.2021 godz. 07:00",
+    "zakonczenie": "31.01.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f0"
+    },
+    "droga": "11",
+    "odcinek": "m. Olesno",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.12.2021 godz. 08:00",
+    "zakonczenie": "17.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2ef"
+    },
+    "droga": "25",
+    "odcinek": "Kokanin - Niedźwiady",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.12.2021 godz. 10:00",
+    "zakonczenie": "31.01.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f6"
+    },
+    "droga": "11",
+    "odcinek": "Obwodnica Budzynia",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "03.12.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2ee"
+    },
+    "droga": "39",
+    "odcinek": "m. Brzeg",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "07.12.2021 godz. 08:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f8"
+    },
+    "droga": "A1",
+    "odcinek": "A1, Pyrzowice",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.12.2021 godz. 09:00",
+    "zakonczenie": "10.05.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f9"
+    },
+    "droga": "A4",
+    "odcinek": "Węzeł Gliwice Ostropa - Węzeł Gliwice Bojków",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "02.12.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2fa"
+    },
+    "droga": "15",
+    "odcinek": "Lulkowo-Wydartowo",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.12.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 09:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2fb"
+    },
+    "droga": "50",
+    "odcinek": "Łochów",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.12.2021 godz. 08:00",
+    "zakonczenie": "31.03.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2fe"
+    },
+    "droga": "A1",
+    "odcinek": "A1, Pyrzowice",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.12.2021 godz. 00:00",
+    "zakonczenie": "10.05.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2ff"
+    },
+    "droga": "22",
+    "odcinek": "Gorzów Wlkp. - Strzelce Krajeńskie",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "01.12.2021 godz. 14:00",
+    "zakonczenie": "24.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2fd"
+    },
+    "droga": "S8",
+    "odcinek": "Węzeł Trzcianka - Węzeł Wyszków Północ",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "02.12.2021 godz. 06:00",
+    "zakonczenie": "31.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2fc"
+    },
+    "droga": "62",
+    "odcinek": "Łochów",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.12.2021 godz. 08:00",
+    "zakonczenie": "31.03.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d300"
+    },
+    "droga": "A1",
+    "odcinek": "A1 pobocz prawej jezdni",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.12.2021 godz. 07:00",
+    "zakonczenie": "15.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d2f7"
+    },
+    "droga": "57",
+    "odcinek": "przejście przez m. Bogate",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.12.2021 godz. 09:15",
+    "zakonczenie": "31.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d309"
+    },
+    "droga": "11",
+    "odcinek": "m . Ciarka",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.11.2021 godz. 07:00",
+    "zakonczenie": "30.11.2022 godz. 19:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d302"
+    },
+    "droga": "83",
+    "odcinek": "Odcinek Turek - Warta",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.12.2021 godz. 07:00",
+    "zakonczenie": "20.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d303"
+    },
+    "droga": "83",
+    "odcinek": "Odcinek Turek - Warta",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.12.2021 godz. 07:00",
+    "zakonczenie": "20.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d305"
+    },
+    "droga": "47",
+    "odcinek": "Rdzawka",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.11.2021 godz. 15:00",
+    "zakonczenie": "30.06.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d30b"
+    },
+    "droga": "94",
+    "odcinek": "Strzelce Opolskie",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.11.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d307"
+    },
+    "droga": "28",
+    "odcinek": "Stara Bircza",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.11.2021 godz. 08:30",
+    "zakonczenie": "01.06.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d308"
+    },
+    "droga": "91c",
+    "odcinek": "m. Rudniki",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.11.2021 godz. 08:00",
+    "zakonczenie": "20.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d30a"
+    },
+    "droga": "94",
+    "odcinek": "Strzelce Opolskie",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.11.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d306"
+    },
+    "droga": "7",
+    "odcinek": "granica woj. Świętokrzyskiego - Kraków",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.11.2021 godz. 13:00",
+    "zakonczenie": "31.08.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d304"
+    },
+    "droga": "92b",
+    "odcinek": "Boczów - Pniów",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.12.2021 godz. 00:00",
+    "zakonczenie": "23.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d301"
+    },
+    "droga": "61",
+    "odcinek": "m. Grajewo",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.12.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d30f"
+    },
+    "droga": "16",
+    "odcinek": "FRANCISZKOWO",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "26.11.2021 godz. 14:15",
+    "zakonczenie": "31.01.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d30e"
+    },
+    "droga": "94",
+    "odcinek": "Płużnica Wielka",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "29.11.2021 godz. 07:00",
+    "zakonczenie": "17.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d316"
+    },
+    "droga": "63",
+    "odcinek": "Ceranów - Sokołów Podlaski",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "23.11.2021 godz. 10:00",
+    "zakonczenie": "15.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d310"
+    },
+    "droga": "33",
+    "odcinek": "m.Bystrzyca Kłodzka",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "26.11.2021 godz. 07:00",
+    "zakonczenie": "31.08.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d315"
+    },
+    "droga": "92b",
+    "odcinek": "Mostki - Świebodzin",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "23.11.2021 godz. 11:00",
+    "zakonczenie": "16.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d313"
+    },
+    "droga": "8e",
+    "odcinek": "Magnice",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "24.11.2021 godz. 13:00",
+    "zakonczenie": "28.02.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d312"
+    },
+    "droga": "S52b",
+    "odcinek": "Skoczów",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "24.11.2021 godz. 18:30",
+    "zakonczenie": "15.04.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d30d"
+    },
+    "droga": "10",
+    "odcinek": "Dzierzążnia- Ilinek",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "29.11.2021 godz. 07:00",
+    "zakonczenie": "30.11.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d311"
+    },
+    "droga": "S52b",
+    "odcinek": "Skoczów",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "24.11.2021 godz. 18:30",
+    "zakonczenie": "15.04.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d314"
+    },
+    "droga": "83",
+    "odcinek": "Odcinek Turek - Warta",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "24.11.2021 godz. 07:00",
+    "zakonczenie": "20.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d317"
+    },
+    "droga": "46",
+    "odcinek": "Herby",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "22.11.2021 godz. 09:00",
+    "zakonczenie": "13.12.2021 godz. 19:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d30c"
+    },
+    "droga": "28",
+    "odcinek": "Rymanów",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "29.11.2021 godz. 13:00",
+    "zakonczenie": "20.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d319"
+    },
+    "droga": "7",
+    "odcinek": "Gdańsk-Warszawa w m. Mława",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.11.2021 godz. 14:00",
+    "zakonczenie": "30.09.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d31a"
+    },
+    "droga": "19",
+    "odcinek": "Lublin - Kraśnik",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.11.2021 godz. 08:00",
+    "zakonczenie": "04.01.2022 godz. 12:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d31b"
+    },
+    "droga": "21",
+    "odcinek": "Włynkówko",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.11.2021 godz. 09:00",
+    "zakonczenie": "25.03.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d31e"
+    },
+    "droga": "22",
+    "odcinek": "Malbork - Cisy",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.11.2021 godz. 08:00",
+    "zakonczenie": "31.07.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d31f"
+    },
+    "droga": "32",
+    "odcinek": "odc. Granowo - Strykowo",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "18.11.2021 godz. 08:00",
+    "zakonczenie": "31.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d320"
+    },
+    "droga": "42",
+    "odcinek": "Domaszowice - granica Rejonu Duczów Mały",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.11.2021 godz. 08:00",
+    "zakonczenie": "18.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d31c"
+    },
+    "droga": "21",
+    "odcinek": "Bydlino - Niestkowo",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.11.2021 godz. 09:00",
+    "zakonczenie": "25.03.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d321"
+    },
+    "droga": "19",
+    "odcinek": "msc. Zdziary",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.11.2021 godz. 13:00",
+    "zakonczenie": "30.04.2022 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d322"
+    },
+    "droga": "S8",
+    "odcinek": "Głuchy - Niegów",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.11.2021 godz. 09:00",
+    "zakonczenie": "20.12.2021 godz. 14:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d31d"
+    },
+    "droga": "21",
+    "odcinek": "Zimowiska",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.11.2021 godz. 09:00",
+    "zakonczenie": "25.03.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d318"
+    },
+    "droga": "16i",
+    "odcinek": "Olsztyn Zachód",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "22.11.2021 godz. 08:00",
+    "zakonczenie": "22.05.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d325"
+    },
+    "droga": "S7c",
+    "odcinek": "w. Kraków Przewóz - w. Kraków Bieżanów",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.11.2021 godz. 20:00",
+    "zakonczenie": "05.12.2021 godz. 06:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d324"
+    },
+    "droga": "S8",
+    "odcinek": "Niegów - Głuchy",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.11.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 14:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d326"
+    },
+    "droga": "61",
+    "odcinek": "Laski - Szelków",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.11.2021 godz. 10:00",
+    "zakonczenie": "24.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d329"
+    },
+    "droga": "19",
+    "odcinek": "Kuźnica - Sokółka",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "08.11.2021 godz. 20:00",
+    "zakonczenie": "13.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d32a"
+    },
+    "droga": "94",
+    "odcinek": "Skorogoszcz",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.11.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d32c"
+    },
+    "droga": "81",
+    "odcinek": "Zbytków - Skoczów, m. Skoczów",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.11.2021 godz. 14:00",
+    "zakonczenie": "06.04.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d32e"
+    },
+    "droga": "2",
+    "odcinek": "Obwodnica m. Siedlce",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "04.11.2021 godz. 14:00",
+    "zakonczenie": "15.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d328"
+    },
+    "droga": "20",
+    "odcinek": "Bytów - Tuchomie",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "09.11.2021 godz. 07:00",
+    "zakonczenie": "15.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d327"
+    },
+    "droga": "11",
+    "odcinek": "DK 11  odc.Oleśnica - Kierzkowice  -  remont  drogi",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.11.2021 godz. 08:00",
+    "zakonczenie": "30.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d32f"
+    },
+    "droga": "28",
+    "odcinek": "Osielec",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "03.11.2021 godz. 07:00",
+    "zakonczenie": "17.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d32d"
+    },
+    "droga": "79",
+    "odcinek": "Góra Kalwaria-Sandomierz m. Aleksandrówka",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.11.2021 godz. 11:00",
+    "zakonczenie": "20.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d330"
+    },
+    "droga": "25",
+    "odcinek": "Główiew - Rychwał",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.11.2021 godz. 10:00",
+    "zakonczenie": "17.01.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d32b"
+    },
+    "droga": "79",
+    "odcinek": "Góra Kalwaria-Sandomierz m. Kozienice ul: Radomska",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.11.2021 godz. 16:00",
+    "zakonczenie": "21.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d323"
+    },
+    "droga": "11",
+    "odcinek": "gr. woj. opolskiego  - Glinica",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.11.2021 godz. 09:00",
+    "zakonczenie": "13.12.2021 godz. 08:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d333"
+    },
+    "droga": "S8",
+    "odcinek": "Zambrów - Białystok, m. Rzędziany, kier. Warszawa",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "29.10.2021 godz. 07:05",
+    "zakonczenie": "17.12.2021 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d334"
+    },
+    "droga": "94g",
+    "odcinek": "Bochnia",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.10.2021 godz. 00:00",
+    "zakonczenie": "19.05.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d332"
+    },
+    "droga": "74",
+    "odcinek": "Paradyż - Żarnów w m. Solec",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "29.10.2021 godz. 13:00",
+    "zakonczenie": "13.12.2021 godz. 13:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d338"
+    },
+    "droga": "S3a",
+    "odcinek": "węzeł Międzyrzecz Południe - węzeł Świebodzin Północ",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "26.10.2021 godz. 09:00",
+    "zakonczenie": "15.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d335"
+    },
+    "droga": "19",
+    "odcinek": "odc. Kamień - Górno",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "27.10.2021 godz. 10:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d33b"
+    },
+    "droga": "A4",
+    "odcinek": "Węzeł Gliwice Ostropa - Węzeł Gliwice Bojków",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "25.10.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d337"
+    },
+    "droga": "S3a",
+    "odcinek": "w. Miedzyrzecz Południe - w. Świebodzin Północ",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "26.10.2021 godz. 09:00",
+    "zakonczenie": "15.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d336"
+    },
+    "droga": "45",
+    "odcinek": "odc. Kowale - Sołtysy na trasie Praszka kier. Wieluń",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "27.10.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d339"
+    },
+    "droga": "20",
+    "odcinek": "Szczecinek - Biały Bór m. Biały Bór",
+    "wojewodztwo": "zachodniopomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "26.10.2021 godz. 07:00",
+    "zakonczenie": "13.01.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d33c"
+    },
+    "droga": "62",
+    "odcinek": "Sokołów Podlaski - Drohiczyn",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "22.10.2021 godz. 08:00",
+    "zakonczenie": "15.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d33a"
+    },
+    "droga": "21",
+    "odcinek": "m. Grabno",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "25.10.2021 godz. 09:00",
+    "zakonczenie": "31.12.2021 godz. 09:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d33d"
+    },
+    "droga": "16",
+    "odcinek": "Borki Wielkie - Bagienice",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "21.10.2021 godz. 14:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d33e"
+    },
+    "droga": "92",
+    "odcinek": "DK92, Kopytów, Most nad rz. Utratą, km 452+500 str. Prawa",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "21.10.2021 godz. 00:00",
+    "zakonczenie": "15.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d33f"
+    },
+    "droga": "79",
+    "odcinek": "Warszawa - Góra Kalwaria",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "20.10.2021 godz. 22:00",
+    "zakonczenie": "31.12.2021 godz. 23:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d331"
+    },
+    "droga": "38",
+    "odcinek": "odcinek Nowe Gołuszowice-m.Głubczyce",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.11.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d341"
+    },
+    "droga": "7",
+    "odcinek": "Wola Mrokowska",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.10.2021 godz. 10:00",
+    "zakonczenie": "18.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d343"
+    },
+    "droga": "40",
+    "odcinek": "m. Ujazd",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "14.10.2021 godz. 00:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d344"
+    },
+    "droga": "S7i",
+    "odcinek": "Węzeł Elbląg  Zachód - Węzeł Elbląg Wschód",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "13.10.2021 godz. 08:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d342"
+    },
+    "droga": "11",
+    "odcinek": "Jaracz",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.10.2021 godz. 08:00",
+    "zakonczenie": "30.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d346"
+    },
+    "droga": "19",
+    "odcinek": "Siemiatycze - Lublin",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "11.10.2021 godz. 10:00",
+    "zakonczenie": "14.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d345"
+    },
+    "droga": "51",
+    "odcinek": "k/msc. Dywity",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "12.10.2021 godz. 07:30",
+    "zakonczenie": "31.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d348"
+    },
+    "droga": "14",
+    "odcinek": "Łódź - w. Pabianice Północ",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.10.2021 godz. 10:00",
+    "zakonczenie": "30.12.2021 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d347"
+    },
+    "droga": "S14",
+    "odcinek": "Łódź - w. Dobroń",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.10.2021 godz. 10:00",
+    "zakonczenie": "30.12.2021 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d34d"
+    },
+    "droga": "79",
+    "odcinek": "m.Wyszmontów",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "04.10.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d34a"
+    },
+    "droga": "12",
+    "odcinek": "m.Borysławice",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.10.2021 godz. 13:30",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d34b"
+    },
+    "droga": "27",
+    "odcinek": "m. Nowogród Bobrzański",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.10.2021 godz. 07:00",
+    "zakonczenie": "18.07.2022 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d34e"
+    },
+    "droga": "28",
+    "odcinek": "Zator",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.10.2021 godz. 09:00",
+    "zakonczenie": "18.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d349"
+    },
+    "droga": "51",
+    "odcinek": "Smolajny - Kosyń",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.10.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d34f"
+    },
+    "droga": "28",
+    "odcinek": "Białka",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.10.2021 godz. 09:00",
+    "zakonczenie": "17.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d34c"
+    },
+    "droga": "19",
+    "odcinek": "m. Sokołów Młp.",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "04.10.2021 godz. 08:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d340"
+    },
+    "droga": "7",
+    "odcinek": "Mroków",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.10.2021 godz. 10:00",
+    "zakonczenie": "18.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d35d"
+    },
+    "droga": "S6",
+    "odcinek": "w. Gdańsk Osowa",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.09.2021 godz. 11:00",
+    "zakonczenie": "16.12.2021 godz. 11:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d354"
+    },
+    "droga": "40",
+    "odcinek": "Łany - Ujazd",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.09.2021 godz. 11:00",
+    "zakonczenie": "13.12.2021 godz. 08:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d353"
+    },
+    "droga": "36",
+    "odcinek": "Krotoszyn ul. Kobylińska",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "16.09.2021 godz. 12:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d359"
+    },
+    "droga": "S8d",
+    "odcinek": "Obwodnica Wyszkowa",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "07.09.2021 godz. 15:00",
+    "zakonczenie": "30.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d35c"
+    },
+    "droga": "A6",
+    "odcinek": "Węzeł Szczecin Podjuchy - Węzeł Szczecin Dąbie.",
+    "wojewodztwo": "zachodniopomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.09.2021 godz. 13:30",
+    "zakonczenie": "31.05.2022 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d35a"
+    },
+    "droga": "55",
+    "odcinek": "Grudziądz - Kleczkowo",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "03.09.2021 godz. 08:00",
+    "zakonczenie": "31.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d352"
+    },
+    "droga": "51",
+    "odcinek": "Wichrowo - Smolajny",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.09.2021 godz. 11:00",
+    "zakonczenie": "31.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d355"
+    },
+    "droga": "74",
+    "odcinek": "m. Gołoszyce",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "14.09.2021 godz. 07:00",
+    "zakonczenie": "31.05.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d358"
+    },
+    "droga": "27",
+    "odcinek": "Wilkanowo - Zielona Góra",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.09.2021 godz. 15:00",
+    "zakonczenie": "19.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d35b"
+    },
+    "droga": "A4",
+    "odcinek": "A4 kier. Kraków",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "03.09.2021 godz. 00:00",
+    "zakonczenie": "31.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d351"
+    },
+    "droga": "61",
+    "odcinek": "m. Pułtusk",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.10.2021 godz. 07:00",
+    "zakonczenie": "24.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d357"
+    },
+    "droga": "27",
+    "odcinek": "w. Żary Południe",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "13.09.2021 godz. 09:00",
+    "zakonczenie": "12.09.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d356"
+    },
+    "droga": "66",
+    "odcinek": "Szepietowo, ul. Mazowiecka",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "13.09.2021 godz. 10:00",
+    "zakonczenie": "31.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d350"
+    },
+    "droga": "52",
+    "odcinek": "Andrychów",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.10.2021 godz. 09:00",
+    "zakonczenie": "15.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d35f"
+    },
+    "droga": "A4",
+    "odcinek": "A4 kier. Kraków",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.09.2021 godz. 00:00",
+    "zakonczenie": "31.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d360"
+    },
+    "droga": "A4",
+    "odcinek": "A4 kier. Kraków",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.09.2021 godz. 00:00",
+    "zakonczenie": "31.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d361"
+    },
+    "droga": "66",
+    "odcinek": "Zambrów - Wysokie Mazowieckie, m. Osipy Lepertowizna",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "31.08.2021 godz. 10:00",
+    "zakonczenie": "31.12.2021 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d35e"
+    },
+    "droga": "A4",
+    "odcinek": "A4 kier. Katowice",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.09.2021 godz. 00:00",
+    "zakonczenie": "30.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d362"
+    },
+    "droga": "45",
+    "odcinek": "Rudnik - Racibórz",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.08.2021 godz. 07:30",
+    "zakonczenie": "13.12.2021 godz. 08:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d363"
+    },
+    "droga": "77",
+    "odcinek": "Leżajsk - Jarosław",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "27.08.2021 godz. 08:00",
+    "zakonczenie": "15.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d36b"
+    },
+    "droga": "45",
+    "odcinek": "Gwożdzice - Dąbrówka Górna",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.08.2021 godz. 07:00",
+    "zakonczenie": "15.03.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d364"
+    },
+    "droga": "44",
+    "odcinek": "Skawina",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "26.08.2021 godz. 08:00",
+    "zakonczenie": "30.06.2022 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d36e"
+    },
+    "droga": "74",
+    "odcinek": "obwodnica Kraśnika",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "16.07.2021 godz. 00:00",
+    "zakonczenie": "12.01.2022 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d36c"
+    },
+    "droga": "42",
+    "odcinek": "m. Gorzów Śląski",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.08.2021 godz. 06:00",
+    "zakonczenie": "30.09.2022 godz. 19:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d36a"
+    },
+    "droga": "40",
+    "odcinek": "Ujazd - gr. województwa",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.08.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d368"
+    },
+    "droga": "53",
+    "odcinek": "Szczytno - Olszyny",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "12.08.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d367"
+    },
+    "droga": "A8e",
+    "odcinek": "Węzeł Wrocław Lotnisko - Wrocław Stadion",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "16.08.2021 godz. 07:00",
+    "zakonczenie": "20.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d36f"
+    },
+    "droga": "S1",
+    "odcinek": "Sosonowiec - Pyrzowice",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "05.07.2021 godz. 10:34",
+    "zakonczenie": "31.07.2023 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d36d"
+    },
+    "droga": "29",
+    "odcinek": "m. Krosno Odrz. ul. Chrobrego, Trakt Książęcy",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "20.07.2021 godz. 07:00",
+    "zakonczenie": "31.12.2023 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d365"
+    },
+    "droga": "45",
+    "odcinek": "m. Ostrówek",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "23.08.2021 godz. 10:00",
+    "zakonczenie": "31.01.2022 godz. 13:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d366"
+    },
+    "droga": "45",
+    "odcinek": "m. Oleśnica",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "23.08.2021 godz. 10:00",
+    "zakonczenie": "31.01.2022 godz. 13:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d369"
+    },
+    "droga": "S6",
+    "odcinek": "węzeł Kack",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.08.2021 godz. 20:00",
+    "zakonczenie": "31.03.2022 godz. 07:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d371"
+    },
+    "droga": "74",
+    "odcinek": "Janów Lubelski - Zamość (m. Bodaczów)",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Remont mostu",
+    "rozpoczecie": "05.07.2021 godz. 08:00",
+    "zakonczenie": "07.12.2022 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d375"
+    },
+    "droga": "17",
+    "odcinek": "Zamość - Tomaszów Lubelski (m. Jatutów)",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.07.2021 godz. 08:00",
+    "zakonczenie": "15.06.2023 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d376"
+    },
+    "droga": "S7b",
+    "odcinek": "Głogoczów - Lubień",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "30.06.2021 godz. 00:00",
+    "zakonczenie": "17.05.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d374"
+    },
+    "droga": "18",
+    "odcinek": "w. Iłowa - w. Luboszów - w. Golnice",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.07.2021 godz. 12:00",
+    "zakonczenie": "29.07.2023 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d372"
+    },
+    "droga": "94g",
+    "odcinek": "Brzesko",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Remont mostu",
+    "rozpoczecie": "05.07.2021 godz. 08:00",
+    "zakonczenie": "15.12.2021 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d373"
+    },
+    "droga": "3",
+    "odcinek": "Węzeł Polkowice Południe - Węzeł Lubin Północ",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.07.2021 godz. 18:00",
+    "zakonczenie": "15.01.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d370"
+    },
+    "droga": "1a",
+    "odcinek": "Podwarpie - Dąbrowa Górnicza",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "05.07.2021 godz. 10:34",
+    "zakonczenie": "31.07.2022 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d377"
+    },
+    "droga": "16",
+    "odcinek": "WIRWAJDY - TYROWO",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "29.06.2021 godz. 08:00",
+    "zakonczenie": "31.03.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d378"
+    },
+    "droga": "A2",
+    "odcinek": "w. Łódź Północ",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.06.2021 godz. 21:00",
+    "zakonczenie": "30.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d37b"
+    },
+    "droga": "7",
+    "odcinek": "Gdańsk-Warszawa",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.06.2021 godz. 09:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d379"
+    },
+    "droga": "51",
+    "odcinek": "Lidzbark Warmiński, ul. Orła Białego",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "21.06.2021 godz. 15:30",
+    "zakonczenie": "23.12.2021 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d37a"
+    },
+    "droga": "S7i",
+    "odcinek": "w. Dworek - w. Nowy Dwór Gdański",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "21.06.2021 godz. 02:00",
+    "zakonczenie": "31.12.2021 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d380"
+    },
+    "droga": "79",
+    "odcinek": "m.Polanów",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.06.2021 godz. 09:00",
+    "zakonczenie": "17.12.2021 godz. 09:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d37f"
+    },
+    "droga": "60",
+    "odcinek": "Płock-Ciechanów",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.06.2021 godz. 09:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d37c"
+    },
+    "droga": "7",
+    "odcinek": "Gdańsk-Warszawa",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.06.2021 godz. 09:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d37d"
+    },
+    "droga": "7",
+    "odcinek": "Gdańsk-Warszawa",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.06.2021 godz. 09:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d37e"
+    },
+    "droga": "7",
+    "odcinek": "Gdańsk-Warszawa",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.06.2021 godz. 09:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d382"
+    },
+    "droga": "53",
+    "odcinek": "Rozogi - Dąbrowy",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.06.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d383"
+    },
+    "droga": "39",
+    "odcinek": "m. Namysłów",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.06.2021 godz. 09:00",
+    "zakonczenie": "15.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d387"
+    },
+    "droga": "18",
+    "odcinek": "w. Żary Południe - w. Iłowa",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.05.2021 godz. 13:00",
+    "zakonczenie": "18.11.2022 godz. 13:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d384"
+    },
+    "droga": "18",
+    "odcinek": "w. Golnice- w. Luboszów",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.06.2021 godz. 08:00",
+    "zakonczenie": "31.12.2023 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d385"
+    },
+    "droga": "48",
+    "odcinek": "Pionki - Kock (m. Dęblin)",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.05.2021 godz. 08:00",
+    "zakonczenie": "31.03.2023 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d386"
+    },
+    "droga": "3",
+    "odcinek": "Kaźmierzów - Polkowice",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "26.05.2021 godz. 14:00",
+    "zakonczenie": "15.01.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d389"
+    },
+    "droga": "71",
+    "odcinek": "ul. Aleksandrowska (Zgierz- Aleksandrów Ł.)",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "11.05.2021 godz. 08:00",
+    "zakonczenie": "31.12.2022 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d38a"
+    },
+    "droga": "74",
+    "odcinek": "Opatów-Ożarów",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.05.2021 godz. 08:00",
+    "zakonczenie": "13.12.2021 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d388"
+    },
+    "droga": "S3a",
+    "odcinek": "Węzeł Polkowice Północ - węzeł Lubin Północ",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.05.2021 godz. 13:00",
+    "zakonczenie": "15.01.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d38c"
+    },
+    "droga": "11",
+    "odcinek": "odcinek od m. Sieraków Śląski do m. Molna",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "04.05.2021 godz. 07:00",
+    "zakonczenie": "31.03.2022 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d38d"
+    },
+    "droga": "11",
+    "odcinek": "odcinek od m. Molna do m. Ciasna",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "04.05.2021 godz. 07:00",
+    "zakonczenie": "31.03.2022 godz. 18:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d38f"
+    },
+    "droga": "18",
+    "odcinek": "w. Iłowa",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.04.2021 godz. 11:00",
+    "zakonczenie": "19.04.2023 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d390"
+    },
+    "droga": "41",
+    "odcinek": "m.Wierzbięcice",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.04.2021 godz. 08:00",
+    "zakonczenie": "15.09.2022 godz. 08:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d393"
+    },
+    "droga": "11",
+    "odcinek": "odc.Ciarka - Stare Olesno",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.03.2021 godz. 08:00",
+    "zakonczenie": "17.11.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d38e"
+    },
+    "droga": "11",
+    "odcinek": "odc. Ciarka - Stare Olesno na trasie Kluczbork kier. Olesno",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "21.04.2021 godz. 08:00",
+    "zakonczenie": "21.11.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d392"
+    },
+    "droga": "80",
+    "odcinek": "Bydgosdzcz -Toruń",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.03.2021 godz. 14:00",
+    "zakonczenie": "30.04.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d38b"
+    },
+    "droga": "S5",
+    "odcinek": "Świecie - Dworzysko",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.05.2021 godz. 00:00",
+    "zakonczenie": "30.06.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d391"
+    },
+    "droga": "11",
+    "odcinek": "m. Ciarka na trasie Kluczbork kier. Olesno",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.04.2021 godz. 07:00",
+    "zakonczenie": "01.11.2022 godz. 19:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d394"
+    },
+    "droga": "11",
+    "odcinek": "odc. Łomnica - Sieraków",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.03.2021 godz. 08:00",
+    "zakonczenie": "17.11.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d381"
+    },
+    "droga": "9",
+    "odcinek": "m. Rudka most na rzece Dunaj",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Remont mostu",
+    "rozpoczecie": "09.06.2021 godz. 13:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d396"
+    },
+    "droga": "39",
+    "odcinek": "Smarchowice Wielkie - Namysłów",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "25.02.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d397"
+    },
+    "droga": "42",
+    "odcinek": "m. Gorzów Śląski",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "25.02.2021 godz. 07:00",
+    "zakonczenie": "01.09.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a2"
+    },
+    "droga": "94",
+    "odcinek": "Modlnica",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.09.2020 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d399"
+    },
+    "droga": "45",
+    "odcinek": "odc. Kowale - Sołtysy na trasie Praszka kier. Wieluń",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "29.01.2021 godz. 07:00",
+    "zakonczenie": "01.09.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d398"
+    },
+    "droga": "5",
+    "odcinek": "Lipniki - Szubin",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.02.2021 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d39a"
+    },
+    "droga": "42",
+    "odcinek": "odc. Praszka - Strojec na trasie Praszka kier. Radomsko",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "26.01.2021 godz. 07:00",
+    "zakonczenie": "20.11.2022 godz. 17:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a3"
+    },
+    "droga": "1",
+    "odcinek": "Piotrków Trybunalski - Kamieńsk",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.09.2020 godz. 00:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a4"
+    },
+    "droga": "A1",
+    "odcinek": "w.Tuszyn - w. Piotrków Trybunalski",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.09.2020 godz. 09:00",
+    "zakonczenie": "31.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d39b"
+    },
+    "droga": "36",
+    "odcinek": "Ścinawa",
+    "wojewodztwo": "dolnośląskie",
+    "rodzaj": "Remont mostu",
+    "rozpoczecie": "21.01.2021 godz. 09:00",
+    "zakonczenie": "31.12.2021 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d39d"
+    },
+    "droga": "8",
+    "odcinek": "Szypliszki-Budzisko",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "12.01.2021 godz. 07:00",
+    "zakonczenie": "05.10.2022 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a1"
+    },
+    "droga": "18",
+    "odcinek": "w. Olszyna - w. Zary Zachód -  Żary Południe",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "29.09.2020 godz. 13:00",
+    "zakonczenie": "27.09.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d39f"
+    },
+    "droga": "84",
+    "odcinek": "Lesko - Glinne",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "01.01.2021 godz. 00:01",
+    "zakonczenie": "31.12.2021 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d39c"
+    },
+    "droga": "12",
+    "odcinek": "Gostyń - Jarocin w m. Jaraczewo",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "13.01.2021 godz. 00:00",
+    "zakonczenie": "30.03.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d39e"
+    },
+    "droga": "32",
+    "odcinek": "most na rz. Mogielnica w m. Kotowo",
+    "wojewodztwo": "wielkopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "06.01.2021 godz. 20:00",
+    "zakonczenie": "31.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a7"
+    },
+    "droga": "75",
+    "odcinek": "Kurów",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "20.07.2020 godz. 13:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a5"
+    },
+    "droga": "28",
+    "odcinek": "Rymanów",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "21.08.2020 godz. 12:00",
+    "zakonczenie": "17.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a6"
+    },
+    "droga": "28",
+    "odcinek": "Przemyśl -Medyka",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.08.2020 godz. 12:00",
+    "zakonczenie": "31.12.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a0"
+    },
+    "droga": "66",
+    "odcinek": "Zambrów - Bielsk Podlaski, m, Wysokie Mazowieckie",
+    "wojewodztwo": "podlaskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.12.2020 godz. 09:30",
+    "zakonczenie": "01.04.2022 godz. 09:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d395"
+    },
+    "droga": "11",
+    "odcinek": "odc. Łomnica - Sieraków",
+    "wojewodztwo": "opolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "17.03.2021 godz. 08:00",
+    "zakonczenie": "17.11.2022 godz. 16:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a9"
+    },
+    "droga": "S52b",
+    "odcinek": "Bielsko-Biała - Cieszyn, m. Skoczów",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "04.07.2020 godz. 00:00",
+    "zakonczenie": "31.12.2021 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3aa"
+    },
+    "droga": "S1f",
+    "odcinek": "Żywiec - Węgierska Górka",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.06.2020 godz. 20:00",
+    "zakonczenie": "30.06.2023 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3ac"
+    },
+    "droga": "18",
+    "odcinek": "w. Żary Zachód - w. Iłowa",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "18.06.2020 godz. 08:45",
+    "zakonczenie": "01.09.2022 godz. 20:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3ab"
+    },
+    "droga": "1f",
+    "odcinek": "Milówka - Zwardoń",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.06.2020 godz. 09:00",
+    "zakonczenie": "30.06.2023 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3ad"
+    },
+    "droga": "19",
+    "odcinek": "Nowosielec - Jeżowe",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "17.04.2020 godz. 08:00",
+    "zakonczenie": "31.05.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3ae"
+    },
+    "droga": "19",
+    "odcinek": "Nowosielec - Jeżowe",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "17.04.2020 godz. 08:00",
+    "zakonczenie": "31.05.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3a8"
+    },
+    "droga": "7",
+    "odcinek": "Węgrzce",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.07.2020 godz. 08:00",
+    "zakonczenie": "30.11.2023 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3af"
+    },
+    "droga": "19",
+    "odcinek": "Nowosielec - Jeżowe",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "17.04.2020 godz. 08:00",
+    "zakonczenie": "31.05.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3b6"
+    },
+    "droga": "54",
+    "odcinek": "przejście graniczne Gronowo - Mamonowo I",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Blokada drogi",
+    "rozpoczecie": "15.03.2020 godz. 00:00",
+    "zakonczenie": "30.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3b0"
+    },
+    "droga": "27",
+    "odcinek": "węzeł Żary Południe",
+    "wojewodztwo": "lubuskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "06.04.2020 godz. 08:00",
+    "zakonczenie": "01.09.2022 godz. 20:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3b5"
+    },
+    "droga": "65",
+    "odcinek": "przejście graniczne Gołdap - Gusiew",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Blokada drogi",
+    "rozpoczecie": "15.03.2020 godz. 08:00",
+    "zakonczenie": "30.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3b2"
+    },
+    "droga": "73",
+    "odcinek": "Piaseczna Górka",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "23.03.2020 godz. 08:00",
+    "zakonczenie": "19.12.2021 godz. 09:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3b3"
+    },
+    "droga": "65",
+    "odcinek": "Nowa Wieś Ełcka - Zdunki",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "20.03.2020 godz. 11:00",
+    "zakonczenie": "31.03.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3b7"
+    },
+    "droga": "92",
+    "odcinek": "Projekt i budowa drogi ekspresowej S17 na odcinku węzeł „Zakręt” (z węzłem) – węzeł „Lubelska” (bez węzła) o długości około 2,5 km",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "09.03.2020 godz. 07:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3b1"
+    },
+    "droga": "19",
+    "odcinek": "Kamień - Górno",
+    "wojewodztwo": "podkarpackie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "31.03.2020 godz. 13:00",
+    "zakonczenie": "30.06.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b32e2eb6a58b7b2d3b4"
+    },
+    "droga": "63",
+    "odcinek": "Radzyń Podlaski - Sławatycze",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "17.03.2020 godz. 10:00",
+    "zakonczenie": "27.12.2022 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3b8"
+    },
+    "droga": "16",
+    "odcinek": "Ełk - Sędki",
+    "wojewodztwo": "warmińsko-mazurskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "02.03.2020 godz. 10:00",
+    "zakonczenie": "31.12.2022 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3b9"
+    },
+    "droga": "1",
+    "odcinek": "m. Częstochowa - granica woj. śląskiego",
+    "wojewodztwo": "śląskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "19.12.2019 godz. 15:00",
+    "zakonczenie": "02.02.2022 godz. 00:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3ba"
+    },
+    "droga": "20",
+    "odcinek": "odc. Gdynia polifarb - w. Gdynia w. Kack",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "08.12.2019 godz. 00:00",
+    "zakonczenie": "31.12.2021 godz. 08:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3bb"
+    },
+    "droga": "20",
+    "odcinek": "Chwaszczyno - w. Gdynia Wielki Kack",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "22.11.2019 godz. 12:00",
+    "zakonczenie": "31.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3bd"
+    },
+    "droga": "A1",
+    "odcinek": "węzeł Łodź Północ",
+    "wojewodztwo": "łódzkie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "11.11.2019 godz. 10:00",
+    "zakonczenie": "13.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3bc"
+    },
+    "droga": "S6",
+    "odcinek": "odc. w. Wysoka - w. Chwarzno",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "15.11.2019 godz. 12:00",
+    "zakonczenie": "31.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3bf"
+    },
+    "droga": "78",
+    "odcinek": "Kije - Chmielnik",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.08.2019 godz. 11:00",
+    "zakonczenie": "15.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c0"
+    },
+    "droga": "78",
+    "odcinek": "Kije - Chmielnik",
+    "wojewodztwo": "świętokrzyskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "05.08.2019 godz. 11:00",
+    "zakonczenie": "15.12.2021 godz. 12:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c1"
+    },
+    "droga": "75",
+    "odcinek": "Kurów",
+    "wojewodztwo": "małopolskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "22.07.2019 godz. 09:00",
+    "zakonczenie": "29.04.2022 godz. 09:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c2"
+    },
+    "droga": "22",
+    "odcinek": "Czarlin - Knybawa",
+    "wojewodztwo": "pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "20.03.2019 godz. 14:00",
+    "zakonczenie": "31.12.2021 godz. 15:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c7"
+    },
+    "droga": "S5c",
+    "odcinek": "Morsk-Przechowo",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.11.2017 godz. 06:00",
+    "zakonczenie": "30.06.2022 godz. 23:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c3"
+    },
+    "droga": "A6",
+    "odcinek": "Węzeł Szczecin Kijewo   prawa i lewa jezdnia",
+    "wojewodztwo": "zachodniopomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "11.10.2018 godz. 08:00",
+    "zakonczenie": "31.12.2021 godz. 23:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c4"
+    },
+    "droga": "5",
+    "odcinek": "Dworzysko - Kusowo",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.11.2017 godz. 11:00",
+    "zakonczenie": "30.06.2022 godz. 23:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c8"
+    },
+    "droga": "74",
+    "odcinek": "Frampol - Gorajec",
+    "wojewodztwo": "lubelskie",
+    "rodzaj": "Inne",
+    "rozpoczecie": "14.04.2014 godz. 07:00",
+    "zakonczenie": "03.02.2022 godz. 12:05",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c5"
+    },
+    "droga": "5",
+    "odcinek": "Borówno - Aleksandrowo",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.11.2017 godz. 11:00",
+    "zakonczenie": "30.06.2022 godz. 23:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3c6"
+    },
+    "droga": "5c",
+    "odcinek": "Nowe Marzy - Morsk",
+    "wojewodztwo": "kujawsko-pomorskie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "28.11.2017 godz. 11:00",
+    "zakonczenie": "30.06.2022 godz. 23:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65b33e2eb6a58b7b2d3be"
+    },
+    "droga": "7",
+    "odcinek": "Kondrajec-Płońsk",
+    "wojewodztwo": "mazowieckie",
+    "rodzaj": "Roboty drogowe",
+    "rozpoczecie": "07.10.2019 godz. 08:00",
+    "zakonczenie": "30.12.2021 godz. 10:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b65ba6eec43c98d57586e4"
+    },
+    "__v": 0
+  }
+]

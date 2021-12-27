@@ -1,0 +1,23 @@
+extends base
+
+block content
+  main.main
+    .create-road
+      h2.heading-secondary.ma-bt-lg Nowy Remont
+      form.form.form--createRoad
+        .form__group
+          label.form__label(for='droga') droga
+          input#droga.form__input(type='text', placeholder='imie')
+          label.form__label(for='odcinek') odcinek
+          input#odcinek.form__input(type='text', placeholder='odcinek')
+          label.form__label(for='wojewodztwo') wojewodztwo
+          input#wojewodztwo.form__input(type='text', placeholder='wojewodztwo')
+          label.form__label(for='rodzaj') rodzaj
+          input#rodzaj.form__input(type='text', placeholder='rodzaj')
+          label.form__label(for='rozpoczecie') czas-rozpoczecia
+          input#rozpoczecie.form__input(type='text', placeholder='czas-rozpoczecia')
+          label.form__label(for='zakonczenie') czas-zakonczenia
+          input#zakonczenie.form__input(type='text', placeholder='czas-zakonczenia')
+        .form__group
+          button.btn.btn--green Zapisz dane
+      

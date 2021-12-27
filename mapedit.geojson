@@ -1,0 +1,1045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "19.06.2020 20:00",
+        "dataWyg": "30.06.2023 00:00",
+        "Opis": "Tymczasowa organizacja ruchu związana z obsługą wjazdu/wyjazdu z placu budowy drogi S1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.06989991664886, 49.56735510165235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "19.06.2020 09:00",
+        "dataWyg": "30.06.2023 00:00",
+        "Opis": "Tymczasowa organizacja ruchu związana z obsługą wjazdu/wyjazdu z placu budowy drogi S1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.140597581863403, 49.62836145874812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "24.11.2021 18:30",
+        "dataWyg": "15.04.2022 00:00",
+        "Opis": "Ograniczenie prędkości do 90 km/h na czas otwarcia przejazdu awaryjnego w związku z prowadzeniem akcji zimowego utrzymania dróg."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.793487548828125, 49.78595387665146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "05.11.2021 14:00",
+        "dataWyg": "06.04.2022 00:00",
+        "Opis": "Zamknięta jezdnia w kierunku Wisły. Ruch odbywa się jezdnią w kierunku Katowic dwukierunkowo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.792178630828857, 49.80031145762448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "24.11.2021 18:30",
+        "dataWyg": "15.04.2022 00:00",
+        "Opis": "Ograniczenie prędkości do 90 km/h na czas otwarcia przejazdu awaryjnego w związku z prowadzeniem akcji zimowego utrzymania dróg."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.835694789886475, 49.79666878892945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "30.11.2021 15:00",
+        "dataWyg": "30.06.2022 15:00",
+        "Opis": "Przełożenie ruchu z trasy istniejącej na objazd na potrzeby prac przy powstającym obiekcie mostowym. Ruch dwukierunkowy po trasie objazdowej."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.94342565536499, 49.564345576052446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "30.06.2021 00:00",
+        "dataWyg": "17.05.2022 00:00",
+        "Opis": "Rozbudowa węzła Pcim w ciągu DK S7b na poprzez budowę ronda na skrzyżowaniu łącznic węzła oraz dróg gminnych nr K540607 i K540352 wraz z budową i rozbudową infrastruktury. Tymczasowa organizacja ruchu poprzez wprowadzenie sygnalizacji świetlnej."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.971320629119873, 49.75138611974289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "22.07.2019 09:00",
+        "dataWyg": "29.04.2022 09:00",
+        "Opis": "Utrudnienia związane z budową mostu. Ograniczenie prędkości do 50 km/h. Ruch dwukierunkowy po nowo wybudowanym obiekcie mostowym."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.66004753112793, 49.698254766631926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "30.11.2021 08:30",
+        "dataWyg": "01.06.2022 15:00",
+        "Opis": "Budowa mostu. Objazd mostem tymczasowym. Ruch wahadłowy sterowany sygnalizacją świetlną."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.45060443878174, 49.69089828607286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "28.10.2021 00:00",
+        "dataWyg": "19.05.2022 15:00",
+        "Opis": "Utrudnienia związane z budową nowego wiaduktu. Wprowadzenie tymczasowej organizacji ruchu. Ograniczenie prędkości do 60 km/h na DK-94g oraz do 40 km/h na ul. Brodzińskiego (dojazd z Bochni do Łapczycy-włączenie do DK-94g). Zamknięcie wjazdu pod wiadukt, wprowadzenie objazdu do centrum Bochni. W dniu 13.12.2021 r. wprowadzenie kolejnego etapu tymczasowej organizacji ruchu polegającego na przełożeniu ruchu na wiadukt objazdowy, ograniczeniu prędkości do 40 km/h na DK-94g wraz z tymczasowym wiaduktem oraz kontynuacji zamknięcia wjazdu pod wiadukt i objazdu do centrum Bochni."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.399197340011597, 49.96034355723914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "26.08.2021 08:00",
+        "dataWyg": "30.06.2022 23:59",
+        "Opis": "Prace związane z budową ronda w obrębie skrzyżowania DK 44 z obwodnicą Skawiny DK 44b. W dniu 26.08.2021 r. została wprowadzona tymczasowa organizacja ruchu na skrzyżowaniu DK44 z ul. Krakowską w Skawinie. Od 03.11.2021 o godz. 5.00, wprowadzono zamknięcie ul .Krakowskiej w Skawinie dla ruchu kołowego z wyłączeniem komunikacji publicznej, od skrzyżowania ulic Krakowskiej/Skotnickiej/Obwodnicy do granicy inwestycji, tj. na długości około 150m. Ruch dla samochodów do 10 ton odbywa się objazdami poprzez Obwodnicę i ulicą Chmielnika, dla pojazdów powyżej 10 ton Obwodnicą. Czas obowiązywania wprowadzonej tymczasowej organizacji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.848411083221436, 49.99153933684634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "15.07.2020 08:00",
+        "dataWyg": "30.11.2023 00:00",
+        "Opis": "Utrudnienia związane z budową oraz funkcjonowaniem wyjazdów z budowy drogi ekspresowej S52c (odcinek Północna Obwodnica Krakowa: węzeł Modlnica - Węzeł Mistrzejowice) w miejscowości Węgrzce w ciągu drogi krajowej nr 7. W miejscu utrudnień będzie występowało zawężenie obustronne poboczy bitumicznych oraz ograniczenie prędkości do 60 km/h."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.966213703155518, 50.11289530094796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "30.11.2021 13:00",
+        "dataWyg": "31.08.2022 00:00",
+        "Opis": "Utrudnienie związane z budową drogi ekspresowej S7. Od dnia 30 listopada 2021 roku nastapi przełożenie ruchu na lewą jezdnię budowanej drogi S7."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.018720626831055, 50.20420922888255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "08.04.2021 08:00",
+        "dataWyg": "15.09.2022 08:00",
+        "Opis": "Rozbudowa drogi krajowej nr 41 na odcinku w m. Wierzbięcice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.40532636642456, 50.44027431891903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "26.11.2021 07:00",
+        "dataWyg": "31.08.2022 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.662569046020508, 50.2957000556038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "24.11.2021 13:00",
+        "dataWyg": "28.02.2022 15:00",
+        "Opis": "Budowa ronda turbinowego w m. Magnice wprowadzony ETAP 0 Prace poza podstawowym układem drogowym + wyjazdy na plac budowy bez ograniczania prędkości i szerokości na drodze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.94961905479431, 50.99046849975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "06.08.2021 07:00",
+        "dataWyg": "15.03.2022 15:00",
+        "Opis": "Przebudowa drogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.918593883514404, 50.51876819365787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "02.12.2021 00:00",
+        "dataWyg": "10.05.2022 00:00",
+        "Opis": "Budowa wiaduktu kolejowego, Zamknięcie lewego pasa ruchu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.053382873535156, 50.47176399050543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "02.12.2021 09:00",
+        "dataWyg": "10.05.2022 00:00",
+        "Opis": "Budowa wiaduktu kolejowego. Zamknięcie lewego pasa ruchu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.051419496536255, 50.489719424120224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "01.06.2021 08:00",
+        "dataWyg": "31.12.2023 18:00",
+        "Opis": "Budowa drogi, Zmiana pasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.458621978759764, 51.422172382555715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "01.07.2021 12:00",
+        "dataWyg": "29.07.2023 00:00",
+        "Opis": "Przebudowa jezdni południowej - dostosowanie DK 18 do parametrów autostrady. Ruch odbywa się w obu kierunkach jezdnią północną. Pasy ruchu rozdzielone barierą czasową. Zamknięta łącznica południowa na węźle Luboszów. Ruch na węźle odbywa się łącznicą północną przez rondo czasowe. Obowiązuje zakaz wyprzedzania. Ograniczenie prędkości do 60 km/h - lokalnie przy wyjazdach z budowy ograniczenie prędkości do 40 km/h oraz zwężenie jezdni do 3,00 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.343195796012877, 51.446837717482644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "19.04.2021 11:00",
+        "dataWyg": "19.04.2023 00:00",
+        "Opis": "Zjazd do zaplecza materiałowo - sprzętowego. Zwężenie jezdni."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.215474367141725, 51.5253432267644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "18.05.2021 13:00",
+        "dataWyg": "18.11.2022 13:00",
+        "Opis": "Przebudowa jezdni południowej - dostosowanie DK 18 do parametrów autostrady. Ruch odbywa się w obu kierunkach jezdnią północną. Pasy ruchu rozdzielone barierą czasową. Zamknięta łącznica południowa na węźle Iłowa. Ruch na węźle odbywa się łącznicą północną przez rondo czasowe. Obowiązuje zakaz wyprzedzania. Ograniczenie prędkości do 60 km/h - lokalnie przy wyjazdach z budowy ograniczenie prędkości do 40 km/h oraz zwężenie jezdni do 3,00 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.191632211208344, 51.528417026302854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "06.04.2020 08:00",
+        "dataWyg": "01.09.2022 20:00",
+        "Opis": "Wyjazd z budowy do bazy materiałowo - sprzętowej, docelowo OUA - etap II. Zakaz wjazdu dla nieuprawnionych użytkowników zjazdu.Obowiązuje zakaz wyprzedzania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.047653913497923, 51.56457281740472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "13.09.2021 09:00",
+        "dataWyg": "12.09.2022 00:00",
+        "Opis": "Przebudowa węzła Żary Południe - budowa łącznicy południowej, Zwężenie jezdni. Obowiązuje zakaz wyprzedzania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.046049952507019, 51.56209840626263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "18.06.2020 08:45",
+        "dataWyg": "01.09.2022 20:00",
+        "Opis": "Przebudowa jezdni południowej - dostosowanie DK 18 do parametrów autostrady. Ruch odbywa się w obu kierunkach jezdnią północną. Pasy ruchu rozdzielone barierą czasową. Zamknięta łącznica południowa na węźle Żary Południe. Ruch na węźle odbywa się łącznicą północną przez rondo czasowe. Obowiązuje zakaz wyprzedzania. Ograniczenie prędkości do 60 km/h - lokalnie przy wyjazdach z budowy ograniczenie prędkości do 40 km/h oraz zwężenie jezdni do 3,00 m. Na wysokości przejść dla zwierząt w km 14+000, 23+000, 31+000 dodatkowe zwężenie jezdni - ruch odbywa się po nawierzchni czasowej na której mogą występować większe nierówności."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.897310733795164, 51.62203994568126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "29.09.2020 13:00",
+        "dataWyg": "27.09.2022 00:00",
+        "Opis": "Przebudowa drogi krajowej nr 18. Dostosowanie drogi do parametrów autostrady. Zamknięcie jezdni południowej.Ruch w obu kierunkach odbywa się jezdnią północną.Pasy ruchu odseparowane barierą czasową w osi jezdni Zamknięcie łącznicy południowej na węźle Olszyna i węźle Żary Zachód. Ruch na węzłach w obu kierunkach odbywa się przez ronda czasowe na łącznicy północnej. Ograniczenie prędkości do 60 km/h na wysokości zjazdów na budowę do 40 km/h."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.759176969528196, 51.6672985468463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "15.12.2021 08:30",
+        "dataWyg": "17.12.2021 17:00",
+        "Opis": "Uzupełnienie poboczy destruktem. Zwężenie. Obowiązuje ograniczenie prędkości do 60 km/h i zakaz wyprzedzania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.262563228607176, 51.80915869853343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "30.11.2021 08:00",
+        "dataWyg": "20.12.2021 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.242918491363525, 50.87601521734372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "19.12.2019 15:00",
+        "dataWyg": "02.02.2022 00:00",
+        "Opis": "Budowa autostrady A1 odc. E: granica województwa śląskiego - w. Rząsawa. Ruch odbywa się w obu kierunkach w układzie 2+2. Ograniczenie prędkości do 70 km/h."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.31868553161621, 51.02209675038709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "15.09.2020 00:00",
+        "dataWyg": "31.12.2021 15:00",
+        "Opis": "W związku z przebudową autostrady ruch w kierunku Katowic i Gdańska odbywa się jezdnią prawą, dwoma pasami w kierunku Katowic i jednym pasem w kierunku Gdańska, roboty odbywają się na jezdni lewej ZALECANY OBJAZD równoległą drogą krajową nr 91 do Piotrkowa Trybunalskiego, dalej DK 12 Srock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.631388187408447, 51.39928597690117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "02.09.2020 09:00",
+        "dataWyg": "31.12.2021 12:00",
+        "Opis": "Ruch w kier. Gdańska odbywa się jezdnią lewą 3 pasami, ruch w kierunku Katowic odbywa się jezdnią prawą 2 pasami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.5716392993927, 51.63942837386789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "28.11.2017 11:00",
+        "dataWyg": "30.06.2022 23:00",
+        "Opis": "Brak danych"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.620096147060394, 53.465433745728056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "11.10.2018 08:00",
+        "dataWyg": "31.12.2021 23:59",
+        "Opis": "Brak bezpośredniej relacji na węźle Szczecin Kijewo: 1.Stargard - Kołbaskowo - objazd przez węzeł Szczecin Dąbie (k. Świnoujście). 2.Kołbaskowo - Szczecin-Centrum - objazd przez węzeł Szczecin Dąbie (k. Świnoujście). 3.Świnoujście - Stargard - objazd przez węzeł Szczecin Podjuchy (k. Kołbaskowo)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.701820611953737, 53.37411237125759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "02.09.2021 13:30",
+        "dataWyg": "31.05.2022 23:59",
+        "Opis": "Zamknięta jezdnia lewa - k. Kołbaskowo/Berlin/Zielona Góra. Ruch odbywa się jezdnią prawą - dwukierunkowo - po jednym pasie ruchu w każdym kierunku."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.690952301025389, 53.36750634696305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "26.10.2021 07:00",
+        "dataWyg": "13.01.2022 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.83527648448944, 53.89652183662202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "18.11.2021 09:00",
+        "dataWyg": "25.03.2022 16:00",
+        "Opis": "Mogą wystapić zwężenia jezdni do jednego pasa ruchu. Ruch wahadłowy będzie kierowany ręcznie przez uprawnionych pracowników wykonawcy. W porze nocnej ruchem sterować będzie sygnalizacja świetlna."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.992695331573486, 54.51171493435743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "18.11.2021 09:00",
+        "dataWyg": "25.03.2022 16:00",
+        "Opis": "Mogą wystapić zwężenia jezdni do jednego pasa ruchu. Ruch wahadłowy będzie kierowany ręcznie przez uprawnionych pracowników wykonawcy. W porze nocnej ruchem sterować będzie sygnalizacja świetlna."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.95568084716797, 54.541936794003426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "18.11.2021 09:00",
+        "dataWyg": "25.03.2022 16:00",
+        "Opis": "Mogą wystapić zwężenia jezdni do jednego pasa ruchu. Ruch wahadłowy będzie kierowany ręcznie przez uprawnionych pracowników wykonawcy. W porze nocnej ruchem sterować będzie sygnalizacja świetlna."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.9244384765625, 54.55777969569602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "18.11.2021 09:00",
+        "dataWyg": "25.03.2022 16:00",
+        "Opis": "Mogą wystapić zwężenia jezdni do jednego pasa ruchu. Ruch wahadłowy będzie kierowany ręcznie przez uprawnionych pracowników wykonawcy. W porze nocnej ruchem sterować będzie sygnalizacja świetlna."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.893357038497925, 54.56292451472227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "08.08.2021 20:00",
+        "dataWyg": "31.03.2022 07:00",
+        "Opis": "Zamknięta główna jezdnia drogi S6 w obrębie węzła Kack str. L i P . Ruch poprowadzony nowowybudowanymi drogami."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.472309112548828, 54.4732671291446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "08.12.2019 00:00",
+        "dataWyg": "31.12.2021 08:00",
+        "Opis": "Zamkniecie jezdni na odcinku od Polifarbu do w. Gdynia Kack kierunek z Chwaszczyno do Gdyni. Ruch dwukierunkowy puszczony nitką z Gdyni do Chwaszczyna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.443394899368286, 54.45368661289581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "18.11.2021 08:00",
+        "dataWyg": "31.07.2022 00:00",
+        "Opis": "Rozbudowa drogi Dk 22 na odcinku Cisy - Malbork na długości około 1,5 km.: - ograniczenie szybkości do 50 km/godz. - zakaz wyprzedzania - zwężenie jezdni prawo i lewo utrudnienia potrwaja do końca Lipca 2022 roku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.01005983352661, 54.03852300291027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "21.06.2021 02:00",
+        "dataWyg": "31.12.2021 23:59",
+        "Opis": "Prace budowalne na MOP Mała Holandia . Wyjazd i wjazd maszyn budowlanych . MOP na czas budowy nieczynny ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.046462774276733, 54.23134240732916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "22.11.2021 08:00",
+        "dataWyg": "22.05.2022 15:00",
+        "Opis": "Zamknięcie prawego pasa ruchu w kierunku Augustów."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.35244107246399, 53.771226879924754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "16.12.2021 10:00",
+        "dataWyg": "10.01.2022 16:00",
+        "Opis": "Przebudowa przepustu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.49950385093689, 53.808919030066306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "20.03.2020 11:00",
+        "dataWyg": "31.03.2022 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.336406707763672, 53.7706561987915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "20.03.2020 11:00",
+        "dataWyg": "31.03.2022 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.39116668701172, 53.833891138375606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "12.01.2021 07:00",
+        "dataWyg": "05.10.2022 10:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.117423057556152, 54.30607071034761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "08.12.2020 09:30",
+        "dataWyg": "01.04.2022 09:30",
+        "Opis": "Objazd: Wysokie Mazowieckie DK 66 ul.1 Maja - Al. Niepodległości - ul. Przechodnia (DG 107621B) - ul. Zambrówska DK 66."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.49797761440277, 52.926051655797984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "02.12.2021 08:00",
+        "dataWyg": "31.03.2022 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.677184104919434, 52.53337544110014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "02.12.2021 08:00",
+        "dataWyg": "31.03.2022 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.680864095687866, 52.528689277325434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "13.12.2021 07:00",
+        "dataWyg": "31.12.2021 17:00",
+        "Opis": "Wyłączony z ruchu prawy pas na jezdni w kierunku Białegostoku."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.458133459091187, 52.55633563419879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "07.10.2019 08:00",
+        "dataWyg": "30.12.2022 10:00",
+        "Opis": "Budowa drogi S7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.320587158203125, 52.73623968673541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "06.12.2021 10:00",
+        "dataWyg": "31.01.2022 16:00",
+        "Opis": "Osoba do konatku 512 330 835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.09300184249878, 51.812488569663905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "04.12.2021 10:00",
+        "dataWyg": "31.01.2022 16:00",
+        "Opis": "Osoba do konatku 512 330 835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.163951635360718, 52.06510657165685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "02.11.2021 10:00",
+        "dataWyg": "17.01.2022 16:00",
+        "Opis": "Ograniczenie prędkości 60 km/h, zakaz wyprzedzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.167320489883423, 52.10332888853085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "13.01.2021 00:00",
+        "dataWyg": "30.03.2022 00:00",
+        "Opis": "Przebudowa mostu. w m. Jaraczewo w ciągu drogi nr 12 od km 224,100 do km 224,200 Ograniczenia: - ograniczenie prędkości - ruch wahadłowy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.299100160598755, 51.96995778009931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "17.03.2021 14:00",
+        "dataWyg": "30.04.2022 15:00",
+        "Opis": "W m. Czarnowo przedbudowa drogi wojewódzkiej 249."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.218464851379395, 53.11190528734529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "28.11.2017 11:00",
+        "dataWyg": "30.06.2022 23:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.120564222335815, 53.21847132975302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "28.11.2017 11:00",
+        "dataWyg": "30.06.2022 23:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.33845615386963, 53.374496410925126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "28.11.2017 11:00",
+        "dataWyg": "30.06.2022 23:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.383369743824005, 53.40816961833288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "28.11.2017 11:00",
+        "dataWyg": "30.06.2022 23:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.491578102111816, 53.42124654995661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "26.11.2021 14:15",
+        "dataWyg": "31.01.2022 16:00",
+        "Opis": "REMONT PRZEPUSTU. W TRAKCIE PROWADZENIA ROBÓT RUCH KIEROWANY PRZEZ SYGNALISTÓW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.736015796661377, 53.64687647285035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "29.06.2021 08:00",
+        "dataWyg": "31.03.2022 17:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.85054612159729, 53.656192296687664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "19.11.2021 14:00",
+        "dataWyg": "30.09.2022 15:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.37118434906006, 53.09260663662016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "04.10.2021 08:00",
+        "dataWyg": "",
+        "Opis": "Wieloetapowa przebudowa sieci drogowej w ramach budowy węzła Sokołów Młp. Północ w ciagu projektowanej drogi S19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.13691473007202, 50.251883763631454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "31.03.2020 13:00",
+        "dataWyg": "30.06.2022 00:00",
+        "Opis": "Wyjazd z budowy poprzez zjazd technologiczny w ramach budowy drogi S19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.1319580078125, 50.30107317422304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "27.10.2021 10:00",
+        "dataWyg": "",
+        "Opis": "Zaprojektowanie i budowa drogi ekspresowej S19. Budowa węzła drogowego w m. Kamień. Wieloetapowa przebudowa sieci drogowej. Etap poprowadzenia ruchu po docelowym śladzie drogi DK19 obiektem mostowym nad droga S19."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.131764888763428, 50.30525336967934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "17.04.2020 08:00",
+        "dataWyg": "31.05.2022 15:00",
+        "Opis": "Zjazd technologiczny do budowy drogi ekspresowej S19."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.13219404220581, 50.405823444249236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "17.04.2020 08:00",
+        "dataWyg": "31.05.2022 15:00",
+        "Opis": "Zjazd technologiczny do budowy drogi ekspresowej S19."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.133352756500244, 50.41613399206688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "17.04.2020 08:00",
+        "dataWyg": "31.05.2022 15:00",
+        "Opis": "Zjazd technologiczny do budowy drogi ekspresowej S19."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.132837772369385, 50.418157549702805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "17.11.2021 13:00",
+        "dataWyg": "30.04.2022 18:00",
+        "Opis": "Budowa drogi S19. Przełozenie ruchu na docelowy slad DK19 w msc. Zdziary. Na rondzie w msc. Zdziary wprowadzono docelowe wyjazdy w kierunku Rzeszowa oraz w kierunku Ulanowa. Zjazdy w kierunku łącznika do drogi S19 oraz w kierunku drogi wojewódzkiej do Janowa Lubelskiego pozostały bez zmian."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.25302219390869, 50.568069893298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "INNE",
+        "dataRozp": "14.04.2014 07:00",
+        "dataWyg": "03.02.2022 12:05",
+        "Opis": "Ograniczenie dopuszczalnej masy całkowitej (DMC) do 8 t."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.690951824188232, 50.67072109918397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "01.07.2021 08:00",
+        "dataWyg": "15.06.2023 18:00",
+        "Opis": "Rozbudowa DK 17 na odc. granica m. Zamość - Łabunie. Pierwszy etap prac obejmuje: roboty ziemne, roboty rozbiórkowe oraz związane z wycinką drzew. W ramach prac mogą wystąpić utrudnienia związane z wprowadzeniem ruchu wahadłowego kierowanego ręcznie."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.284428119659424, 50.70587587922404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "16.07.2021 00:00",
+        "dataWyg": "12.01.2022 12:00",
+        "Opis": "budowa włączeń istniejącej DK74 do projektowanego ronda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.225277423858643, 50.90606388996372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "19.11.2021 08:00",
+        "dataWyg": "",
+        "Opis": "budowa drogi ekspresowej S19."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.272720336914062, 50.9441247570022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "28.05.2021 08:00",
+        "dataWyg": "31.03.2023 16:00",
+        "Opis": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.84106171131134, 51.56150145942601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "30.11.2021 13:00",
+        "dataWyg": "31.08.2022 00:00",
+        "Opis": "Utrudnienie związane z budową drogi ekspresowej S7. Od dnia 30 listopada 2021 roku wprowadzono przełożenie ruchu na lewą jezdnię budowanej drogi S7."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.183300971984863, 50.49295477300681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rodzaj": "Roboty drogowe",
+        "dataRozp": "14.09.2021 07:00",
+        "dataWyg": "31.05.2022 15:00",
+        "Opis": "Utrodnienia związane z wyjazdem pojazdów z budowy na drogę krajową"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.27004623413086, 50.79942539891854]
+      }
+    }
+  ]
+}
