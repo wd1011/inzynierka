@@ -1,16 +1,16 @@
 const path = require('path');
 const express = require('express');
 const morgan = require('morgan');
-
+const dotenv = require('dotenv');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
-
 const ejs = require('ejs');
 const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const cors = require('cors');
 const compression = require('compression');
 const xss = require('xss-clean');
+
 const errorController = require('./controllers/errorController');
 const ErrorHandler = require('./utils/errorHandler');
 const route = require('./routes/route');
