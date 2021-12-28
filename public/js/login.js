@@ -18,7 +18,7 @@ const login = async(email, password) => {
             }, 150);
         }
     } catch (err) {
-        console.log(err.response);
+        //console.log(err.response);
         showAlert('error', 'Nie poprawny adres email lub haslo');
     }
 };
@@ -35,7 +35,7 @@ const logout = async() => {
             }, 150);
         }
     } catch (err) {
-        console.log(err.response);
+        //console.log(err.response);
         showAlert('error', 'Nie udało ci sie wylogować.');
     }
 };

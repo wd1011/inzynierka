@@ -88,11 +88,11 @@ exports.send = catchAsync(async(req, res, next) => {
     let data = {};
 
     form.parse(req, function(err, fields) {
-        console.log(fields);
+        //console.log(fields);
         Object.keys(fields).forEach(function(property) {
             data[property] = fields[property].toString();
         });
-        console.log(data);
+        //console.log(data);
         const mail = {
             sender: `${data.name} <${data.email}>`,
             to: 'wojtekdab15@gmail.com', // receiver email,
