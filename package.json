@@ -52,8 +52,9 @@
     },
     "devDependencies": {
         "@types/nodemailer": "^6.4.4",
-        "nodemon": "^2.0.13",
         "prettier": "2.4.1"
     },
-    "engines": { "node": ">=10.0.0" }
+    "engines": {
+        "node": ">=10.0.0"
+    }
 }
