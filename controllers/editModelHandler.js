@@ -1,5 +1,5 @@
 const catchAsync = require('../utils/catchAsync');
-const ErrorHandler = require('./utils/ErrorHandler');
+const ErrorHandler = require('./../utils/ErrorHandler');
 
 
 exports.deleteOne = (Model) =>
