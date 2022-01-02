@@ -4,7 +4,7 @@ const number = async(
 ) => {
     try {
         const res = await axios({
-            method: 'POST',
+            method: 'GET',
             url: '/remonty/znajdz/numerDrogi',
             data: {
                 droga,

@@ -127,6 +127,9 @@ exports.voivodeship = catchAsync(async(req, res, next) => {
 exports.numberOfRoad = catchAsync(async(req, res, next) => {
     res.status(200).render('road.pug');
 });
-exports.roadStart = catchAsync(async(req, res, next) => {
+exports.town = catchAsync(async(req, res, next) => {
     res.status(200).render('town.pug');
+});
+exports.changePasswd = catchAsync(async(req, res, next) => {
+    res.status(200).render('changePassword.pug');
 });

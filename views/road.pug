@@ -3,11 +3,37 @@ extends base
 block content
   main.main
     .number-road
-      h2.heading-secondary.ma-bt-lg Wpisz numer drogi <br>
+      h2.heading-secondary.ma-bt-lg Wybierz numer drogi <br>
       form.form.form--number
         .form__group
           label.form__label(for='droga') 
-          input#droga.form__input(type='text', placeholder='numer drogi')
-
+          select#droga.form-select
+           option(selected='') Numer drogi
+            option A1
+            option A2
+            option A4
+            option A6
+            option A8
+            option A18
+            option A50
+            option S1
+            option S1
+            option S2
+            option S3
+            option S5       
+            option S6
+            option S7
+            option S8
+            option S10  
+            option S11
+            option S12
+            option S14
+            option S16
+            option S17
+            option S19
+            option S22
+            option S50
+            option S51
+            option S52
         .form__group
-          button.btn.btn--green Wyślij informacje o remontach
+          button.btn.btn--blue Wyślij informacje o remontach

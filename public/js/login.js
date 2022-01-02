@@ -12,14 +12,14 @@ const login = async(email, password) => {
         });
 
         if (res.data.status === 'success') {
-            showAlert('success', 'udalo ci się zalogować!');
+            showAlert('success', 'Udało ci się zalogować!');
             window.setTimeout(() => {
                 location.assign('/mapaPolski');
             }, 150);
         }
     } catch (err) {
         //console.log(err.response);
-        showAlert('error', 'Nie poprawny adres email lub haslo');
+        showAlert('error', 'Nie poprawny adres email lub hasło');
     }
 };
 

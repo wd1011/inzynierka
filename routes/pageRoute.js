@@ -56,15 +56,22 @@ router.post(
 router.get(
     '/remontyWojewodztwie',
     authorizationController.security,
-    pageController.voivodeship)
+    pageController.voivodeship
+);
 router.get(
     '/remontyNumerDrogi',
     authorizationController.security,
-    pageController.numberOfRoad)
+    pageController.numberOfRoad
+);
 router.get(
     '/remontyOdcinek',
     authorizationController.security,
-    pageController.roadStart)
-
+    pageController.town
+);
+router.get(
+    '/zmianaHasla',
+    authorizationController.security,
+    pageController.changePasswd
+);
 router.get('/glowna', pageController.mainPag);
 module.exports = router;

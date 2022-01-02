@@ -41,6 +41,7 @@
         "morgan": "^1.10.0",
         "multiparty": "^4.2.2",
         "node": "^16.10.0",
+        "node-cron": "^3.0.0",
         "nodemailer": "^4.7.0",
         "nodemailer-sendgrid-transport": "^0.2.0",
         "pug": "^3.0.2",
