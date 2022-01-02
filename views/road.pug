@@ -2,12 +2,12 @@ extends base
 
 block content
   main.main
-    .voivodeship-road
-      h2.heading-secondary.ma-bt-lg Wpisz nazwę odcinka drogi <br>
-      form.form.form--voivodeship
+    .number-road
+      h2.heading-secondary.ma-bt-lg Wpisz numer drogi <br>
+      form.form.form--number
         .form__group
-          label.form__label(for='wojewodztwo') 
-          input#droga.form__input(type='text', placeholder='wojewodztwo')
+          label.form__label(for='droga') 
+          input#droga.form__input(type='text', placeholder='numer drogi')
 
         .form__group
           button.btn.btn--green Wyślij informacje o remontach

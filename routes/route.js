@@ -28,5 +28,10 @@ router
 router
     .route('/znajdz/wojewodztwa')
     .get(roadsController.getVoivodeship);
-
+router
+    .route('/znajdz/miasto')
+    .get(roadsController.getTown);
+router
+    .route('/znajdz/numerDrogi')
+    .get(roadsController.getNumberOfRoad);
 module.exports = router;

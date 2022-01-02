@@ -62,7 +62,7 @@ router.get(
     authorizationController.security,
     pageController.numberOfRoad)
 router.get(
-    '/remontyDataRozpoczecia',
+    '/remontyOdcinek',
     authorizationController.security,
     pageController.roadStart)
 

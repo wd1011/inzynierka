@@ -1,0 +1,13 @@
+extends base
+
+block content
+  main.main
+    .town-road
+      h2.heading-secondary.ma-bt-lg Wpisz Miejscowość/Odcinek drogi<br>
+      form.form.form--town
+        .form__group
+          label.form__label(for='odcinek') 
+          input#odcinek.form__input(type='text', placeholder='Miejscowość lub odcinek drogi')
+
+        .form__group
+          button.btn.btn--green Wyślij informacje o remontach 
