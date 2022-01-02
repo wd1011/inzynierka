@@ -1,0 +1,13 @@
+extends base
+
+block content
+  main.main
+    .voivodeship-road
+      h2.heading-secondary.ma-bt-lg Wpisz nazwę swojego województwa<br> Pamiętaj o polskich znakach!
+      form.form.form--voivodeship
+        .form__group
+          label.form__label(for='wojewodztwo') 
+          input#wojewodztwo.form__input(type='text', placeholder='wojewodztwo')
+
+        .form__group
+          button.btn.btn--green Wyślij informacje o remontach w twoim wojewodztwie

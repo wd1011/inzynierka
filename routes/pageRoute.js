@@ -53,7 +53,18 @@ router.post(
     authorizationController.security,
     pageController.scrap
 );
-
+router.get(
+    '/remontyWojewodztwie',
+    authorizationController.security,
+    pageController.voivodeship)
+router.get(
+    '/remontyNumerDrogi',
+    authorizationController.security,
+    pageController.numberOfRoad)
+router.get(
+    '/remontyDataRozpoczecia',
+    authorizationController.security,
+    pageController.roadStart)
 
 router.get('/glowna', pageController.mainPag);
 module.exports = router;

@@ -64,3 +64,20 @@ exports.getOne = (Model, popOptions) =>
             },
         });
     });
+exports.getByName = (Model, popOptions) =>
+    catchAsync(async(req, res, next) => {
+        let query = Model.find(req.body);
+        if (popOptions) query = query.populate(popOptions);
+        const doc = await query;
+
+        if (!doc) {
+            return next(new ErrorHandler('Nie ma takiej nazwy', 404));
+        }
+
+        res.status(200).json({
+            status: 'success',
+            data: {
+                data: doc,
+            },
+        });
+    });

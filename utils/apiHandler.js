@@ -1,18 +1,15 @@
 class APIhandler {
-  constructor(query, queryString) {
-    this.query = query;
-    this.queryString = queryString;
-  }
-  filter() {
-    const queryObj = { ...this.queryString };
-    const excludedFields = ['page', 'sort', 'limit', 'fields'];
-    excludedFields.forEach((el) => delete queryObj[el]);
+    constructor(query, queryString) {
+        this.query = query;
+        this.queryString = queryString;
+    }
+    filter() {
+        const queryObj = {...this.queryString };
+        let queryStr = JSON.stringify(queryObj);
+        queryStr = queryStr.replace(/\b(gte|gt|lte|lt)\b/g, (match) => `$${match}`);
+        this.query.find(JSON.parse(queryStr));
 
-    let queryStr = JSON.stringify(queryObj);
-    queryStr = queryStr.replace(/\b(gte|gt|lte|lt)\b/g, (match) => `$${match}`);
-    this.query.find(JSON.parse(queryStr));
-
-    return this;
-  }
+        return this;
+    }
 }
 module.exports = APIhandler;

@@ -3,13 +3,18 @@ block content
  main.main
   .user-site
     nav.user-site__menu
-      ul.pagePanel-nav Zobaczyłeś jakiś remont którego nie uwzględniłem na mapie? <br>Poinformuj mnie o tym :)<br><br>
+      ul.pagePanel-nav Chcesz dostawać email wraz z informacjami o remontach przez wybranych przez ciebie miejscach? <br>Wybierz odpowiednią opcję dla ciebie i po każdorazowym skorzystaniu z opcji dostaniesz listę wraz z problemami na swoją skrzynkę pocztową <br><br>
         li.pagePanel-nav--active 
-          a(href='/kontakt')
+          a(href='/remontyWojewodztwie')
+            | Remonty w Województwach
+          a(href='/remontyNumerDrogi')
+            | Remonty na wybranym odcinku
+          a(href='/remontyDataRozpoczecia')
+            | Remonty, które zaczęły się dziś 
+            <br>  
+        li.pagePanel-nav--write Zobaczyłeś jakiś remont którego nie uwzględniłem na mapie? <br>Poinformuj mnie o tym :)
+          a(href='/kontakt')    
             | Napisz do mnie
-        li
-          a(href='#')
-            | ??
             .user-site__content      
       - if (user.role === 'admin')
         .admin-nav

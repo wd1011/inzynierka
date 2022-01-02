@@ -121,3 +121,12 @@ exports.getAllUsers = catchAsync(async(req, res, next) => {
 exports.mainPag = catchAsync(async(req, res, next) => {
     res.status(200).render('mainPage.pug');
 });
+exports.voivodeship = catchAsync(async(req, res, next) => {
+    res.status(200).render('voivodeship.pug');
+});
+exports.numberOfRoad = catchAsync(async(req, res, next) => {
+    res.status(200).render('road.pug');
+});
+exports.roadStart = catchAsync(async(req, res, next) => {
+    res.status(200).render('datestart.pug');
+});
