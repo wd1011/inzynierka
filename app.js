@@ -22,6 +22,8 @@ const options = require('./controllers/adminBroOptions');
 const buildAdminRouter = require('./routes/adminBroRouter');
 const { default: AdminBro } = require('admin-bro');
 
+
+
 app.enable('trust proxy');
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
@@ -68,4 +70,8 @@ app.all('*', (req, res, next) => {
     );
 });
 app.use(errorController);
+
+require('./tasks.js');
+
+
 module.exports = app;

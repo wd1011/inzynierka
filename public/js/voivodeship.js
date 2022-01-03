@@ -18,7 +18,7 @@ const voivodeship = async(wojewodztwo) => {
             },
         });
         if (res.data.status === 'success') {
-            showAlert('success', 'Informacje Wysłane!');
+            showAlert('success', 'Zapisałeś się do newslettera!');
             console.log(wojewodztwo);
         }
     } catch (err) {
@@ -31,3 +31,27 @@ if (voivodeshipForm)
         const wojewodztwo = document.getElementById('wojewodztwo').value;
         voivodeship(wojewodztwo);
     });
+
+const saveBtn = document.getElementById('save-btn');
+if (saveBtn) {
+    saveBtn.addEventListener('click', () => {
+        const voi = document.getElementById('wojewodztwo').value;
+        const email = getCookie('userEmail');
+        try {
+            axios({
+                method: 'POST',
+                url: '/remonty/email/wyslijWiadomosc',
+                data: {
+                    wojewodztwo: voi,
+                    email
+                },
+            }).then(res => {
+                if (res.data.status === 'success') {
+                    showAlert('success', 'Wysłano!');
+                }
+            });
+        } catch (err) {
+            showAlert('error', err.response.data.message);
+        }
+    })
+}
