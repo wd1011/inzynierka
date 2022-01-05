@@ -10,7 +10,7 @@ const town = async(odcinek) => {
     try {
         const res = await axios({
             method: 'POST',
-            url: '/remonty/email/wyslij-Nazwe-Odcinka',
+            url: '/remonty/email/wysylanie-Nazw-Odcinka',
             data: {
                 odcinek,
                 email
@@ -28,5 +28,27 @@ if (townForm)
     townForm.addEventListener('submit', (e) => {
         e.preventDefault();
         const odcinek = document.getElementById('odcinek').value;
+        showAlert('success',
+            'Zostałeś zapisany do newslettera');
         town(odcinek);
     });
+const saveButton = document.getElementById('save-button');
+if (saveButton) {
+    saveButton.addEventListener('click', () => {
+        const odc = document.getElementById('odcinek').value;
+        const email = getCookie('userEmail');
+        showAlert('success', 'Wiadomość została wysłana do ciebie!');
+        try {
+            axios({
+                method: 'POST',
+                url: '/remonty/email/wysylanieWiadomosci',
+                data: {
+                    odcinek: odc,
+                    email
+                },
+            });
+        } catch (err) {
+            showAlert('error', err.response.data.message);
+        }
+    })
+}

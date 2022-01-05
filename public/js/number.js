@@ -9,7 +9,7 @@ const number = async(droga) => {
     try {
         const res = await axios({
             method: 'POST',
-            url: '/remonty/email/wyslij-Numer-Drogi',
+            url: '/remonty/email/wysylanie-Numer-Drogi',
             data: {
                 droga,
                 email
@@ -27,5 +27,29 @@ if (numberForm)
     numberForm.addEventListener('submit', (e) => {
         e.preventDefault();
         const droga = document.getElementById('droga').value;
+        showAlert('success',
+            'Zostałeś zapisany do newslettera');
         number(droga);
     });
+
+const saveButn = document.getElementById('save-butn');
+if (saveButn) {
+    saveButn.addEventListener('click', () => {
+        const dr = document.getElementById('droga').value;
+        const email = getCookie('userEmail');
+        showAlert('success', 'Wiadomość została wysłana do ciebie!');
+        try {
+            axios({
+                method: 'POST',
+                url: '/remonty/email/wysylanieWiadomosci',
+                data: {
+                    droga: dr,
+                    email
+                },
+            });
+
+        } catch (err) {
+            showAlert('error', err.response.data.message);
+        }
+    })
+}

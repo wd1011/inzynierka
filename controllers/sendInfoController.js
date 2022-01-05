@@ -56,7 +56,7 @@ exports.sendEmail = catchAsync(async(req, res, next) => {
     };
     await transporter.sendMail(mail);
 
-    res.status(200);
+    res.status(200).render('afterSendInformations.pug');
 });
 
 exports.saveWoj = catchAsync(async(req, res, next) => {
@@ -81,7 +81,7 @@ exports.saveWoj = catchAsync(async(req, res, next) => {
         });
     }
 
-    res.status(200).render('voivodeshipEmail.pug');
+    res.status(200).render('afterSendInformations.pug');
 });
 exports.saveRoute = catchAsync(async(req, res, next) => {
     const { email, odcinek } = req.body;
@@ -105,7 +105,7 @@ exports.saveRoute = catchAsync(async(req, res, next) => {
         });
     }
 
-    res.status(200).render('voivodeshipEmail.pug');
+    res.status(200).render('afterSendInformations.pug');
 });
 
 exports.saveNumberOfRoad = catchAsync(async(req, res, next) => {
@@ -129,5 +129,5 @@ exports.saveNumberOfRoad = catchAsync(async(req, res, next) => {
             drogi: _.uniq([...data.drogi, droga]),
         });
     }
-    res.status(200).render('voivodeshipEmail.pug');
+    res.status(200).render('afterSendInformations.pug');
 });

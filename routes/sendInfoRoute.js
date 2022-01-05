@@ -2,28 +2,28 @@ const express = require('express');
 const sendInfoController = require('../controllers/sendInfoController');
 const authorizationController = require('../controllers/authorizationController');
 const router = express.Router();
-
+const pageController = require('../controllers/pageController');
 router
     .post(
-        '/wyslijWiadomosc',
+        '/wysylanieWiadomosci',
         authorizationController.security,
         sendInfoController.sendEmail
     );
 router
     .post(
-        '/wyslij-Wojewodztwo',
+        '/wysylanie-Wojewodztwo',
         authorizationController.security,
         sendInfoController.saveWoj
     );
 router
     .post(
-        '/wyslij-Numer-Drogi',
+        '/wysylanie-Numer-Drogi',
         authorizationController.security,
         sendInfoController.saveNumberOfRoad
     );
 router
     .post(
-        '/wyslij-Nazwe-Odcinka',
+        '/wysylanie-Nazw-Odcinka',
         authorizationController.security,
         sendInfoController.saveRoute
     );
