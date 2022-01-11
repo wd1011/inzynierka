@@ -16,13 +16,8 @@ const town = async(odcinek) => {
                 email
             },
         });
-        if (res.data.status === 'success') {
-            showAlert('success', 'Informacje Wysłane!');
-            console.log(odcinek);
-        }
-    } catch (err) {
-        showAlert('error', err.response.data.message);
-    }
+
+    } catch (err) {}
 };
 if (townForm)
     townForm.addEventListener('submit', (e) => {

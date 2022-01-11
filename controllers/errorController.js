@@ -48,7 +48,7 @@ const sendErrorProd = (err, req, res) => {
             });
         }
 
-        console.error('ERROR', err);
+        //console.error('ERROR', err);
         return res.status(500).json({
             status: 'error',
             message: 'Coś poszlo nie tak!!',
@@ -69,7 +69,7 @@ const sendErrorProd = (err, req, res) => {
 };
 
 module.exports = (err, req, res, next) => {
-    console.log(err.stack);
+    //console.log(err.stack);
     err.statusCode = err.statusCode || 500;
     err.status = err.status || 'error';
 
